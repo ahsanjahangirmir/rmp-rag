@@ -1,0 +1,389 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Amina Khan",
+        "department": "Computer Science",
+        "courses": ["Introduction to Programming", "Data Structures", "Algorithms"],
+        "stars": 4,
+        "review": "Dr. Khan is an excellent professor who explains complex concepts clearly. Her assignments are challenging but helpful for learning."
+      },
+      {
+        "professor": "Dr. Saad Ahmed",
+        "department": "Economics",
+        "courses": ["Microeconomics", "Game Theory", "Development Economics"],
+        "stars": 5,
+        "review": "One of the best professors at LUMS. Dr. Ahmed's lectures are engaging and he's always available for office hours."
+      },
+      {
+        "professor": "Prof. Fatima Hassan",
+        "department": "Electrical Engineering",
+        "courses": ["Digital Logic Design", "Microprocessors", "Computer Architecture"],
+        "stars": 3,
+        "review": "Prof. Hassan knows her subject well, but her teaching style can be a bit dry. Exams are fair but challenging."
+      },
+      {
+        "professor": "Dr. Ali Raza",
+        "department": "Mathematics",
+        "courses": ["Calculus I", "Linear Algebra", "Differential Equations"],
+        "stars": 4,
+        "review": "Dr. Raza is passionate about math and it shows in his teaching. He's patient with students and provides great explanations."
+      },
+      {
+        "professor": "Dr. Zainab Malik",
+        "department": "Biology",
+        "courses": ["Cell Biology", "Genetics", "Molecular Biology"],
+        "stars": 5,
+        "review": "Dr. Malik is an inspiring teacher who makes biology fascinating. Her research-oriented approach really enhances the learning experience."
+      },
+      {
+        "professor": "Prof. Usman Khalid",
+        "department": "Management",
+        "courses": ["Organizational Behavior", "Strategic Management", "Leadership"],
+        "stars": 2,
+        "review": "Prof. Khalid's lectures can be confusing at times. The course material is good, but his delivery needs improvement."
+      },
+      {
+        "professor": "Dr. Nadia Chaudhry",
+        "department": "Psychology",
+        "courses": ["Introduction to Psychology", "Cognitive Psychology", "Research Methods"],
+        "stars": 4,
+        "review": "Dr. Chaudhry is knowledgeable and approachable. Her classes are interactive and she encourages critical thinking."
+      },
+      {
+        "professor": "Prof. Imran Siddiqui",
+        "department": "Physics",
+        "courses": ["Classical Mechanics", "Quantum Physics", "Electromagnetism"],
+        "stars": 3,
+        "review": "Prof. Siddiqui is brilliant, but his lectures can be hard to follow sometimes. Office hours are very helpful though."
+      },
+      {
+        "professor": "Dr. Ayesha Tariq",
+        "department": "Humanities",
+        "courses": ["World Literature", "Creative Writing", "Literary Theory"],
+        "stars": 5,
+        "review": "Dr. Tariq is an exceptional professor who brings literature to life. Her classes are always thought-provoking and enjoyable."
+      },
+      {
+        "professor": "Prof. Hassan Mahmood",
+        "department": "Accounting and Finance",
+        "courses": ["Financial Accounting", "Corporate Finance", "Investment Analysis"],
+        "stars": 4,
+        "review": "Prof. Mahmood has extensive industry experience which he brings to the classroom. His practical approach is very beneficial."
+      },
+      {
+        "professor": "Dr. Sadia Rehman",
+        "department": "Chemistry",
+        "courses": ["Organic Chemistry", "Inorganic Chemistry", "Biochemistry"],
+        "stars": 4,
+        "review": "Dr. Rehman's lectures are well-structured and her lab sessions are particularly informative. She's always willing to help students."
+      },
+      {
+        "professor": "Prof. Tariq Jamil",
+        "department": "Law",
+        "courses": ["Constitutional Law", "International Law", "Human Rights Law"],
+        "stars": 5,
+        "review": "Prof. Jamil is a legal expert who brings real-world cases into the classroom. His courses are challenging but extremely rewarding."
+      },
+      {
+        "professor": "Dr. Asma Hyder",
+        "department": "Anthropology",
+        "courses": ["Cultural Anthropology", "Ethnographic Methods", "Social Theory"],
+        "stars": 3,
+        "review": "Dr. Hyder's courses are interesting, but her grading can be inconsistent. Her fieldwork assignments are enlightening."
+      },
+      {
+        "professor": "Prof. Kamran Asdar Ali",
+        "department": "History",
+        "courses": ["Modern South Asian History", "Colonialism and Nationalism", "Partition Studies"],
+        "stars": 5,
+        "review": "Prof. Ali's lectures are captivating. He presents historical events in a way that makes you rethink your understanding of the past."
+      },
+      {
+        "professor": "Dr. Maryam Waseem",
+        "department": "Environmental Sciences",
+        "courses": ["Climate Change", "Environmental Policy", "Sustainable Development"],
+        "stars": 4,
+        "review": "Dr. Waseem is passionate about environmental issues. Her courses are eye-opening and she encourages students to think critically about sustainability."
+      },
+      {
+        "professor": "Prof. Adnan Khan",
+        "department": "Political Science",
+        "courses": ["Comparative Politics", "International Relations", "Political Theory"],
+        "stars": 3,
+        "review": "Prof. Khan's lectures can be dense, but he knows his subject well. His exams are tough but fair."
+      },
+      {
+        "professor": "Dr. Farah Ali",
+        "department": "Computer Science",
+        "courses": ["Artificial Intelligence", "Machine Learning", "Neural Networks"],
+        "stars": 5,
+        "review": "Dr. Ali is at the forefront of AI research. Her courses are challenging but incredibly rewarding. She's great at explaining complex concepts."
+      },
+      {
+        "professor": "Prof. Rashid Ahmed",
+        "department": "Economics",
+        "courses": ["Macroeconomics", "Econometrics", "International Trade"],
+        "stars": 4,
+        "review": "Prof. Ahmed's classes are well-organized and his explanations are clear. He uses real-world examples to illustrate economic concepts."
+      },
+      {
+        "professor": "Dr. Sana Khalid",
+        "department": "Psychology",
+        "courses": ["Developmental Psychology", "Abnormal Psychology", "Psychotherapy"],
+        "stars": 5,
+        "review": "Dr. Khalid is an empathetic and skilled teacher. Her courses offer deep insights into human behavior and mental health."
+      },
+      {
+        "professor": "Prof. Omer Farooq",
+        "department": "Electrical Engineering",
+        "courses": ["Signal Processing", "Control Systems", "Robotics"],
+        "stars": 3,
+        "review": "Prof. Farooq is knowledgeable but his teaching style can be a bit fast-paced. His projects are innovative and practical."
+      },
+      {
+        "professor": "Dr. Hina Shahid",
+        "department": "Mathematics",
+        "courses": ["Abstract Algebra", "Number Theory", "Topology"],
+        "stars": 4,
+        "review": "Dr. Shahid makes abstract math concepts accessible. Her problem sets are challenging but help in developing a deep understanding."
+      },
+      {
+        "professor": "Prof. Zulfiqar Ali",
+        "department": "Physics",
+        "courses": ["Astrophysics", "Particle Physics", "Quantum Mechanics"],
+        "stars": 5,
+        "review": "Prof. Ali's enthusiasm for physics is contagious. His lectures are mind-expanding and he's always ready to discuss new ideas."
+      },
+      {
+        "professor": "Dr. Samina Saeed",
+        "department": "Biology",
+        "courses": ["Ecology", "Evolution", "Conservation Biology"],
+        "stars": 4,
+        "review": "Dr. Saeed's field trips are the highlight of her courses. She brings ecological concepts to life through hands-on experiences."
+      },
+      {
+        "professor": "Prof. Nasir Mahmood",
+        "department": "Management",
+        "courses": ["Operations Management", "Supply Chain Management", "Project Management"],
+        "stars": 3,
+        "review": "Prof. Mahmood's courses are practical but can be dry at times. His industry connections are valuable for internships."
+      },
+      {
+        "professor": "Dr. Lubna Zaheer",
+        "department": "Humanities",
+        "courses": ["Islamic Art and Architecture", "South Asian Cinema", "Cultural Studies"],
+        "stars": 5,
+        "review": "Dr. Zaheer's courses are eye-opening. She presents art and culture in a way that challenges your perspectives."
+      },
+      {
+        "professor": "Prof. Arif Rahman",
+        "department": "Accounting and Finance",
+        "courses": ["Auditing", "Taxation", "Financial Risk Management"],
+        "stars": 4,
+        "review": "Prof. Rahman's real-world experience in accounting firms adds great value to his courses. His exam prep sessions are extremely helpful."
+      },
+      {
+        "professor": "Dr. Saima Khurshid",
+        "department": "Chemistry",
+        "courses": ["Physical Chemistry", "Analytical Chemistry", "Nanomaterials"],
+        "stars": 3,
+        "review": "Dr. Khurshid's research is cutting-edge, but her lectures can be difficult to follow. Her lab sessions are well-organized and informative."
+      },
+      {
+        "professor": "Prof. Bilal Tanweer",
+        "department": "Humanities",
+        "courses": ["Creative Writing", "Urdu Literature", "Translation Studies"],
+        "stars": 5,
+        "review": "Prof. Tanweer is an inspiring teacher and writer. His feedback on writing assignments is incredibly insightful and encouraging."
+      },
+      {
+        "professor": "Dr. Faisal Bari",
+        "department": "Economics",
+        "courses": ["Development Economics", "Labor Economics", "Education Economics"],
+        "stars": 4,
+        "review": "Dr. Bari's courses offer a deep dive into Pakistan's economic challenges. His policy-oriented approach is very enlightening."
+      },
+      {
+        "professor": "Prof. Nida Kirmani",
+        "department": "Sociology",
+        "courses": ["Gender Studies", "Urban Sociology", "Social Movements"],
+        "stars": 5,
+        "review": "Prof. Kirmani's courses are eye-opening and thought-provoking. She encourages students to question societal norms and structures."
+      },
+      {
+        "professor": "Dr. Moeen Nizami",
+        "department": "Computer Science",
+        "courses": ["Computer Networks", "Cybersecurity", "Cloud Computing"],
+        "stars": 4,
+        "review": "Dr. Nizami's courses are highly relevant to current tech trends. His practical assignments prepare students well for industry roles."
+      },
+      {
+        "professor": "Prof. Syed Ali",
+        "department": "Law",
+        "courses": ["Corporate Law", "Intellectual Property Law", "Legal Ethics"],
+        "stars": 3,
+        "review": "Prof. Ali's courses are comprehensive but can be overwhelming. His moot court sessions are particularly valuable for aspiring lawyers."
+      },
+      {
+        "professor": "Dr. Romana Aziz",
+        "department": "Psychology",
+        "courses": ["Social Psychology", "Personality Theory", "Cross-Cultural Psychology"],
+        "stars": 5,
+        "review": "Dr. Aziz brings psychology to life with her engaging teaching style. Her courses offer deep insights into human behavior and society."
+      },
+      {
+        "professor": "Prof. Zahid Hussain",
+        "department": "Electrical Engineering",
+        "courses": ["Power Systems", "Renewable Energy", "Smart Grids"],
+        "stars": 4,
+        "review": "Prof. Hussain's expertise in sustainable energy is impressive. His courses are challenging but highly relevant to Pakistan's energy needs."
+      },
+      {
+        "professor": "Dr. Ayesha Jalal",
+        "department": "History",
+        "courses": ["South Asian History", "Historical Methods", "Partition Studies"],
+        "stars": 5,
+        "review": "Dr. Jalal is a renowned historian whose courses offer profound insights into South Asian history. Her seminars are intellectually stimulating."
+      },
+      {
+        "professor": "Prof. Tariq Banuri",
+        "department": "Environmental Sciences",
+        "courses": ["Environmental Economics", "Sustainable Development", "Climate Policy"],
+        "stars": 4,
+        "review": "Prof. Banuri's courses bridge the gap between environmental science and policy. His global perspective is particularly valuable."
+      },
+      {
+        "professor": "Dr. Sadia Saeed",
+        "department": "Anthropology",
+        "courses": ["Medical Anthropology", "Anthropology of Religion", "Ethnographic Writing"],
+        "stars": 3,
+        "review": "Dr. Saeed's courses offer interesting perspectives, but her grading can be harsh. Her fieldwork assignments are very enlightening."
+      },
+      {
+        "professor": "Prof. Hassan Karrar",
+        "department": "Political Science",
+        "courses": ["Chinese Politics", "Central Asian Studies", "Political Economy"],
+        "stars": 5,
+        "review": "Prof. Karrar's expertise on China and Central Asia is unparalleled. His courses offer unique insights into regional politics."
+      },
+      {
+        "professor": "Dr. Maryam Wasim",
+        "department": "Biology",
+        "courses": ["Immunology", "Virology", "Public Health"],
+        "stars": 4,
+        "review": "Dr. Wasim's courses are highly relevant, especially in the post-pandemic world. Her research-oriented approach is very beneficial."
+      },
+      {
+        "professor": "Prof. Abid Burki",
+        "department": "Economics",
+        "courses": ["Agricultural Economics", "Rural Development", "Food Security"],
+        "stars": 4,
+        "review": "Prof. Burki's courses offer valuable insights into Pakistan's agricultural sector. His policy recommendations are thought-provoking."
+      },
+      {
+        "professor": "Dr. Furrukh Khan",
+        "department": "Humanities",
+        "courses": ["Film Studies", "Media Theory", "Digital Cultures"],
+        "stars": 5,
+        "review": "Dr. Khan's courses are a perfect blend of theory and practice. His film screenings and discussions are always engaging."
+      },
+      {
+        "professor": "Prof. Shaper Mirza",
+        "department": "Biology",
+        "courses": ["Microbiology", "Infectious Diseases", "Epidemiology"],
+        "stars": 4,
+        "review": "Prof. Mirza's expertise in infectious diseases makes her courses highly relevant. Her lab sessions are particularly informative."
+      },
+      {
+        "professor": "Dr. Nauman Naqvi",
+        "department": "Humanities",
+        "courses": ["Critical Theory", "Postcolonial Studies", "Comparative Literature"],
+        "stars": 3,
+        "review": "Dr. Naqvi's courses are intellectually challenging. His lectures can be dense, but they offer deep insights into critical theory."
+      },
+      {
+        "professor": "Prof. Anjum Altaf",
+        "department": "Economics",
+        "courses": ["Urban Economics", "Public Policy", "Economic History"],
+        "stars": 5,
+        "review": "Prof. Altaf's courses offer a unique perspective on Pakistan's economic challenges. His seminars are always thought-provoking."
+      },
+      {
+        "professor": "Dr. Momin Uppal",
+        "department": "Electrical Engineering",
+        "courses": ["Digital Communications", "Information Theory", "Wireless Networks"],
+        "stars": 4,
+        "review": "Dr. Uppal's courses are at the cutting edge of communications technology. His projects give students hands-on experience with latest tech."
+      },
+      {
+        "professor": "Prof. Ali Khan",
+        "department": "Mathematics",
+        "courses": ["Real Analysis", "Functional Analysis", "Measure Theory"],
+        "stars": 5,
+        "review": "Prof. Khan's deep understanding of mathematics is evident in his teaching. His courses are challenging but incredibly rewarding."
+      },
+      {
+        "professor": "Dr. Samia Raheel",
+        "department": "Psychology",
+        "courses": ["Clinical Psychology", "Health Psychology", "Behavioral Neuroscience"],
+        "stars": 4,
+        "review": "Dr. Raheel brings her clinical experience into the classroom, making her courses highly practical and insightful."
+      },
+      {
+        "professor": "Prof. Zia Ul Haque",
+        "department": "Physics",
+        "courses": ["Solid State Physics", "Condensed Matter Physics", "Materials Science"],
+        "stars": 3,
+        "review": "Prof. Haque's courses are content-rich but can be difficult to follow. His lab sessions are well-equipped and informative."
+      },
+      {
+        "professor": "Dr. Fatima Sajjad",
+        "department": "Sociology",
+        "courses": ["Qualitative Research Methods", "Sociology of Education", "Youth Studies"],
+        "stars": 5,
+        "review": "Dr. Sajjad's courses offer valuable insights into Pakistani society. Her research projects are engaging and eye-opening."
+      },
+      {
+        "professor": "Prof. Wasif Khan",
+        "department": "Computer Science",
+        "courses": ["Database Systems", "Big Data Analytics", "Data Mining"],
+        "stars": 4,
+        "review": "Prof. Khan's courses are highly relevant in today's data-driven world. His assignments provide practical experience with real-world datasets."
+      },
+      {
+        "professor": "Dr. Amna Buttar",
+        "department": "Chemistry",
+        "courses": ["Medicinal Chemistry", "Drug Design", "Pharmacology"],
+        "stars": 5,
+        "review": "Dr. Buttar's courses bridge chemistry and medicine beautifully. Her research-oriented approach prepares students well for further studies."
+      },
+      {
+        "professor": "Prof. Salman Asif",
+        "department": "Electrical Engineering",
+        "courses": ["Digital Signal Processing", "Image Processing", "Computer Vision"],
+        "stars": 4,
+        "review": "Prof. Asif's courses are at the cutting edge of signal processing. His projects give hands-on experience with latest technologies."
+      },
+      {
+        "professor": "Dr. Laila Bushra",
+        "department": "Humanities",
+        "courses": ["Modern Poetry", "Creative Non-fiction", "Literary Journalism"],
+        "stars": 5,
+        "review": "Dr. Bushra is not only a great teacher but also an accomplished writer. Her feedback on writing assignments is invaluable."
+      },
+      {
+        "professor": "Prof. Tariq Jadoon",
+        "department": "Civil Engineering",
+        "courses": ["Structural Engineering", "Earthquake Engineering", "Construction Management"],
+        "stars": 4,
+        "review": "Prof. Jadoon's courses are essential for aspiring civil engineers. His industry connections are helpful for internships and jobs."
+      },
+      {
+        "professor": "Dr. Nida Kirmani",
+        "department": "Anthropology",
+        "courses": ["Urban Anthropology", "Gender and Development", "Ethnicity and Nationalism"],
+        "stars": 5,
+        "review": "Dr. Kirmani's courses offer critical perspectives on contemporary social issues. Her seminars are always thought-provoking."
+      }
+    ]
+}

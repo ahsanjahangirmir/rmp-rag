@@ -1,0 +1,38 @@
+{
+  "name": "chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.6",
+    "@nextui-org/react": "^2.4.6",
+    "@pinecone-database/pinecone": "^3.0.2",
+    "@vercel/speed-insights": "^1.0.12",
+    "axios": "^1.7.3",
+    "framer-motion": "^11.3.21",
+    "next": "14.2.5",
+    "next-themes": "^0.3.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.54.0",
+    "pinecone": "^0.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-markdown": "^9.0.1",
+    "rehype-highlight": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/estree": "^1.0.5",
+    "@types/hast": "^3.0.4",
+    "@types/mdast": "^4.0.4",
+    "@types/unist": "^3.0.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
